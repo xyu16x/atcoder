@@ -1,14 +1,17 @@
 # atcoder
 AtCoderのコードをアップロードする
 
-## 環境構築にうったコマンド
+## Pythonインストール〜仮想環境作成
 `sudo apt install python3-pip`  
 `sudo apt install python3.12-venv`  
 `python3 -m venv .venv`  
- `npm install -g --prefix ~/.local atcoder-cli`  
- `vi ~/.bashrc`  
-### .bashrc に追加した行を再確認
- `echo 'export PATH="$HOME/.local/bin:$PATH"'`  
+ 
+#### atcoder-cli インストール
+`npm install -g --prefix ~/.local atcoder-cli`
+`acc --version`
+#### online-judge-toolsインストール
+`pip3 install online-judge-tools`
+`oj --version` 
 
 ## templateの設定
 ### acc の設定ディレクトリに移動
@@ -25,11 +28,12 @@ AtCoderのコードをアップロードする
 ### ログイン
 `oj login https://atcoder.jp/`
 ### テストケースの取得
-`mkdir abc`  
-`cd ./abc`  
-`oj d https://atcoder.jp/contests/abc`  
-`cp ../../../library/template.py main.py`  
+`acc new abcXXX`  
 ### ローカルテスト
 `oj t -c "python3 main.py"`
 ### 提出
-`oj s https://atcoder.jp/contests/abcXXX/tasks/abcXXX_a A.py`
+`acc submit -s -- -l 5009`
+
+## 別バージョン
+### テストケース取得
+``
