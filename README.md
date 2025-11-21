@@ -1,7 +1,7 @@
 # atcoder
 AtCoderのコードをアップロードする
 
-## Pythonインストール〜仮想環境作成
+## Pythonインストール〜仮想環境作成〜ライブラリ
 `sudo apt install python3-pip`  
 `sudo apt install python3.12-venv`  
 `python3 -m venv .venv`  
@@ -26,14 +26,10 @@ AtCoderのコードをアップロードする
 
 ## atcoder
 ### ログイン
-`oj login https://atcoder.jp/`
+`oj login https://atcoder.jp/`  
+`acc login`
 ### テストケースの取得
 `acc new abcXXX`  
-### ローカルテスト
-`oj t -c "python3 main.py"`
-### 提出
-`acc submit -s -- -l 5009`
-
-## 別バージョン
-### テストケース取得
-``
+### vi ~/.bashrc ※>> ~/.bashrcはしない
+`alias submit='acc submit -- main.py --language 5055'`  
+`alias test='oj t -c "python3 main.py"'`  
