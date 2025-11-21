@@ -10,12 +10,12 @@ AtCoderのコードをアップロードする
 ### .bashrc に追加した行を再確認
  `echo 'export PATH="$HOME/.local/bin:$PATH"'`  
 
-# templateの設定
-## acc の設定ディレクトリに移動
+## templateの設定
+### acc の設定ディレクトリに移動
 `cd "$(acc config-dir)"`  
-## Python用のテンプレートディレクトリを作成 (ディレクトリ名は任意だが、ここでは 'python'とする)
+### Python用のテンプレートディレクトリを作成 (ディレクトリ名は任意だが、ここでは 'python'とする)
 `mkdir python`
-## accのデフォルトテンプレートの設定
+### accのデフォルトテンプレートの設定
 `acc config default-template python`  
 
 ## venvに入る
