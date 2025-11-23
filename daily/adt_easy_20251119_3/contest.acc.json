@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20251119_3",
+    "title": "AtCoder Daily Training EASY 2025/11/19 20:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20251119_3"
+  },
+  "tasks": [
+    {
+      "id": "abc372_a",
+      "label": "A",
+      "title": "delete .",
+      "url": "https://atcoder.jp/contests/adt_easy_20251119_3/tasks/abc372_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc282_a",
+      "label": "B",
+      "title": "Generalized ABC",
+      "url": "https://atcoder.jp/contests/adt_easy_20251119_3/tasks/abc282_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc411_b",
+      "label": "C",
+      "title": "Distance Table",
+      "url": "https://atcoder.jp/contests/adt_easy_20251119_3/tasks/abc411_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc223_b",
+      "label": "D",
+      "title": "String Shifting",
+      "url": "https://atcoder.jp/contests/adt_easy_20251119_3/tasks/abc223_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc284_c",
+      "label": "E",
+      "title": "Count Connected Components",
+      "url": "https://atcoder.jp/contests/adt_easy_20251119_3/tasks/abc284_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
