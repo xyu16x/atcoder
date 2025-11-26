@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20251126_1",
+    "title": "AtCoder Daily Training EASY 2025/11/26 16:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20251126_1"
+  },
+  "tasks": [
+    {
+      "id": "abc323_a",
+      "label": "A",
+      "title": "Weak Beats",
+      "url": "https://atcoder.jp/contests/adt_easy_20251126_1/tasks/abc323_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc234_a",
+      "label": "B",
+      "title": "Weird Function",
+      "url": "https://atcoder.jp/contests/adt_easy_20251126_1/tasks/abc234_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc305_b",
+      "label": "C",
+      "title": "ABCDEFG",
+      "url": "https://atcoder.jp/contests/adt_easy_20251126_1/tasks/abc305_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc424_b",
+      "label": "D",
+      "title": "Perfect",
+      "url": "https://atcoder.jp/contests/adt_easy_20251126_1/tasks/abc424_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc306_c",
+      "label": "E",
+      "title": "Centers",
+      "url": "https://atcoder.jp/contests/adt_easy_20251126_1/tasks/abc306_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
