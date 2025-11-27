@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20251127_1",
+    "title": "AtCoder Daily Training EASY 2025/11/27 16:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20251127_1"
+  },
+  "tasks": [
+    {
+      "id": "abc257_a",
+      "label": "A",
+      "title": "A to Z String 2",
+      "url": "https://atcoder.jp/contests/adt_easy_20251127_1/tasks/abc257_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc265_a",
+      "label": "B",
+      "title": "Apple",
+      "url": "https://atcoder.jp/contests/adt_easy_20251127_1/tasks/abc265_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc362_b",
+      "label": "C",
+      "title": "Right Triangle",
+      "url": "https://atcoder.jp/contests/adt_easy_20251127_1/tasks/abc362_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc248_b",
+      "label": "D",
+      "title": "Slimes",
+      "url": "https://atcoder.jp/contests/adt_easy_20251127_1/tasks/abc248_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc239_c",
+      "label": "E",
+      "title": "Knight Fork",
+      "url": "https://atcoder.jp/contests/adt_easy_20251127_1/tasks/abc239_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
