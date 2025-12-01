@@ -1,3 +1,7 @@
 x = int(input())
 a, b = map(int, input().split())
 a = list(map(int, input().split()))
+
+
+start_code = ord("A")
+chr(start_code + x)
