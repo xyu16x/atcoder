@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20251204_3",
+    "title": "AtCoder Daily Training EASY 2025/12/04 20:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20251204_3"
+  },
+  "tasks": [
+    {
+      "id": "abc350_a",
+      "label": "A",
+      "title": "Past ABCs",
+      "url": "https://atcoder.jp/contests/adt_easy_20251204_3/tasks/abc350_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc405_a",
+      "label": "B",
+      "title": "Is it rated?",
+      "url": "https://atcoder.jp/contests/adt_easy_20251204_3/tasks/abc405_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc415_b",
+      "label": "C",
+      "title": "Pick Two",
+      "url": "https://atcoder.jp/contests/adt_easy_20251204_3/tasks/abc415_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc401_b",
+      "label": "D",
+      "title": "Unauthorized",
+      "url": "https://atcoder.jp/contests/adt_easy_20251204_3/tasks/abc401_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc375_c",
+      "label": "E",
+      "title": "Spiral Rotation",
+      "url": "https://atcoder.jp/contests/adt_easy_20251204_3/tasks/abc375_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

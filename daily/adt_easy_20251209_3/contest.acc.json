@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20251209_3",
+    "title": "AtCoder Daily Training EASY 2025/12/09 19:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20251209_3"
+  },
+  "tasks": [
+    {
+      "id": "abc331_a",
+      "label": "A",
+      "title": "Tomorrow",
+      "url": "https://atcoder.jp/contests/adt_easy_20251209_3/tasks/abc331_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc369_a",
+      "label": "B",
+      "title": "369",
+      "url": "https://atcoder.jp/contests/adt_easy_20251209_3/tasks/abc369_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc268_b",
+      "label": "C",
+      "title": "Prefix?",
+      "url": "https://atcoder.jp/contests/adt_easy_20251209_3/tasks/abc268_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc279_b",
+      "label": "D",
+      "title": "LOOKUP",
+      "url": "https://atcoder.jp/contests/adt_easy_20251209_3/tasks/abc279_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc380_c",
+      "label": "E",
+      "title": "Move Segment",
+      "url": "https://atcoder.jp/contests/adt_easy_20251209_3/tasks/abc380_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
