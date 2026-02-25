@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20251216_1",
+    "title": "AtCoder Daily Training EASY 2025/12/16 15:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20251216_1"
+  },
+  "tasks": [
+    {
+      "id": "abc345_a",
+      "label": "A",
+      "title": "Leftrightarrow",
+      "url": "https://atcoder.jp/contests/adt_easy_20251216_1/tasks/abc345_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc419_a",
+      "label": "B",
+      "title": "AtCoder Language",
+      "url": "https://atcoder.jp/contests/adt_easy_20251216_1/tasks/abc419_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc214_b",
+      "label": "C",
+      "title": "How many?",
+      "url": "https://atcoder.jp/contests/adt_easy_20251216_1/tasks/abc214_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc389_b",
+      "label": "D",
+      "title": "tcaF",
+      "url": "https://atcoder.jp/contests/adt_easy_20251216_1/tasks/abc389_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc305_c",
+      "label": "E",
+      "title": "Snuke the Cookie Picker",
+      "url": "https://atcoder.jp/contests/adt_easy_20251216_1/tasks/abc305_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

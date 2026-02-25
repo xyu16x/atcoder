@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20260223_1",
+    "title": "AtCoder Daily Training EASY 2026/02/23 16:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20260223_1"
+  },
+  "tasks": [
+    {
+      "id": "abc290_a",
+      "label": "A",
+      "title": "Contest Result",
+      "url": "https://atcoder.jp/contests/adt_easy_20260223_1/tasks/abc290_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc380_a",
+      "label": "B",
+      "title": "123233",
+      "url": "https://atcoder.jp/contests/adt_easy_20260223_1/tasks/abc380_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc410_b",
+      "label": "C",
+      "title": "Reverse Proxy",
+      "url": "https://atcoder.jp/contests/adt_easy_20260223_1/tasks/abc410_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc256_b",
+      "label": "D",
+      "title": "Batters",
+      "url": "https://atcoder.jp/contests/adt_easy_20260223_1/tasks/abc256_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc270_c",
+      "label": "E",
+      "title": "Simple path",
+      "url": "https://atcoder.jp/contests/adt_easy_20260223_1/tasks/abc270_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
