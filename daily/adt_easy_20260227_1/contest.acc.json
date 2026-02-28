@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20260227_1",
+    "title": "AtCoder Daily Training EASY 2026/02/27 16:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20260227_1"
+  },
+  "tasks": [
+    {
+      "id": "abc431_a",
+      "label": "A",
+      "title": "Robot Balance",
+      "url": "https://atcoder.jp/contests/adt_easy_20260227_1/tasks/abc431_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc423_a",
+      "label": "B",
+      "title": "Scary Fee",
+      "url": "https://atcoder.jp/contests/adt_easy_20260227_1/tasks/abc423_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc306_b",
+      "label": "C",
+      "title": "Base 2",
+      "url": "https://atcoder.jp/contests/adt_easy_20260227_1/tasks/abc306_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc278_b",
+      "label": "D",
+      "title": "Misjudge the Time",
+      "url": "https://atcoder.jp/contests/adt_easy_20260227_1/tasks/abc278_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc381_c",
+      "label": "E",
+      "title": "11/22 Substring",
+      "url": "https://atcoder.jp/contests/adt_easy_20260227_1/tasks/abc381_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

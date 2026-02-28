@@ -2,6 +2,9 @@ x = int(input())
 a, b = map(int, input().split())
 a = list(map(int, input().split()))
 
-
+# Aをstart_codeに指定して、xのアルファベットが何番目か調べる
 start_code = ord("A")
 chr(start_code + x)
+
+## 四捨五入 0.5足してからintで変換
+ans = int(x + 0.5)
