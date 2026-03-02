@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20260302_1",
+    "title": "AtCoder Daily Training EASY 2026/03/02 16:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20260302_1"
+  },
+  "tasks": [
+    {
+      "id": "abc388_a",
+      "label": "A",
+      "title": "?UPC",
+      "url": "https://atcoder.jp/contests/adt_easy_20260302_1/tasks/abc388_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc214_a",
+      "label": "B",
+      "title": "New Generation ABC",
+      "url": "https://atcoder.jp/contests/adt_easy_20260302_1/tasks/abc214_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc374_b",
+      "label": "C",
+      "title": "Unvarnished Report",
+      "url": "https://atcoder.jp/contests/adt_easy_20260302_1/tasks/abc374_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc393_b",
+      "label": "D",
+      "title": "A..B..C",
+      "url": "https://atcoder.jp/contests/adt_easy_20260302_1/tasks/abc393_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc336_c",
+      "label": "E",
+      "title": "Even Digits",
+      "url": "https://atcoder.jp/contests/adt_easy_20260302_1/tasks/abc336_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

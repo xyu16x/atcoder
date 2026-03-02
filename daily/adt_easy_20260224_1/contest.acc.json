@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20260224_1",
+    "title": "AtCoder Daily Training EASY 2026/02/24 16:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20260224_1"
+  },
+  "tasks": [
+    {
+      "id": "abc432_a",
+      "label": "A",
+      "title": "Permute to Maximize",
+      "url": "https://atcoder.jp/contests/adt_easy_20260224_1/tasks/abc432_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc418_a",
+      "label": "B",
+      "title": "I'm a teapot",
+      "url": "https://atcoder.jp/contests/adt_easy_20260224_1/tasks/abc418_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc323_b",
+      "label": "C",
+      "title": "Round-Robin Tournament",
+      "url": "https://atcoder.jp/contests/adt_easy_20260224_1/tasks/abc323_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc440_b",
+      "label": "D",
+      "title": "Trifecta",
+      "url": "https://atcoder.jp/contests/adt_easy_20260224_1/tasks/abc440_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc262_c",
+      "label": "E",
+      "title": "Min Max Pair",
+      "url": "https://atcoder.jp/contests/adt_easy_20260224_1/tasks/abc262_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
