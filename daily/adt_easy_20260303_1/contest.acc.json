@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20260303_1",
+    "title": "AtCoder Daily Training EASY 2026/03/03 16:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20260303_1"
+  },
+  "tasks": [
+    {
+      "id": "abc371_a",
+      "label": "A",
+      "title": "Jiro",
+      "url": "https://atcoder.jp/contests/adt_easy_20260303_1/tasks/abc371_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc308_a",
+      "label": "B",
+      "title": "New Scheme",
+      "url": "https://atcoder.jp/contests/adt_easy_20260303_1/tasks/abc308_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc427_b",
+      "label": "C",
+      "title": "Sum of Digits Sequence",
+      "url": "https://atcoder.jp/contests/adt_easy_20260303_1/tasks/abc427_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc304_b",
+      "label": "D",
+      "title": "Subscribers",
+      "url": "https://atcoder.jp/contests/adt_easy_20260303_1/tasks/abc304_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc389_c",
+      "label": "E",
+      "title": "Snake Queue",
+      "url": "https://atcoder.jp/contests/adt_easy_20260303_1/tasks/abc389_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
