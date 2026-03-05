@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20260304_1",
+    "title": "AtCoder Daily Training EASY 2026/03/04 16:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20260304_1"
+  },
+  "tasks": [
+    {
+      "id": "abc436_a",
+      "label": "A",
+      "title": "o-padding",
+      "url": "https://atcoder.jp/contests/adt_easy_20260304_1/tasks/abc436_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc355_a",
+      "label": "B",
+      "title": "Who Ate the Cake?",
+      "url": "https://atcoder.jp/contests/adt_easy_20260304_1/tasks/abc355_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc423_b",
+      "label": "C",
+      "title": "Locked Rooms",
+      "url": "https://atcoder.jp/contests/adt_easy_20260304_1/tasks/abc423_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc229_b",
+      "label": "D",
+      "title": "Hard Calculation",
+      "url": "https://atcoder.jp/contests/adt_easy_20260304_1/tasks/abc229_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc439_c",
+      "label": "E",
+      "title": "2026",
+      "url": "https://atcoder.jp/contests/adt_easy_20260304_1/tasks/abc439_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
