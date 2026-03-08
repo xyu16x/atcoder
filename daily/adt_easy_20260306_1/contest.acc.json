@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20260306_1",
+    "title": "AtCoder Daily Training EASY 2026/03/06 16:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20260306_1"
+  },
+  "tasks": [
+    {
+      "id": "abc260_a",
+      "label": "A",
+      "title": "A Unique Letter",
+      "url": "https://atcoder.jp/contests/adt_easy_20260306_1/tasks/abc260_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc421_a",
+      "label": "B",
+      "title": "Misdelivery",
+      "url": "https://atcoder.jp/contests/adt_easy_20260306_1/tasks/abc421_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc437_b",
+      "label": "C",
+      "title": "Tombola",
+      "url": "https://atcoder.jp/contests/adt_easy_20260306_1/tasks/abc437_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc234_b",
+      "label": "D",
+      "title": "Longest Segment",
+      "url": "https://atcoder.jp/contests/adt_easy_20260306_1/tasks/abc234_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc442_c",
+      "label": "E",
+      "title": "Peer Review",
+      "url": "https://atcoder.jp/contests/adt_easy_20260306_1/tasks/abc442_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
