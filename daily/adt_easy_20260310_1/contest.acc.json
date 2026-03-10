@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20260310_1",
+    "title": "AtCoder Daily Training EASY 2026/03/10 16:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20260310_1"
+  },
+  "tasks": [
+    {
+      "id": "abc268_a",
+      "label": "A",
+      "title": "Five Integers",
+      "url": "https://atcoder.jp/contests/adt_easy_20260310_1/tasks/abc268_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc287_a",
+      "label": "B",
+      "title": "Majority",
+      "url": "https://atcoder.jp/contests/adt_easy_20260310_1/tasks/abc287_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc333_b",
+      "label": "C",
+      "title": "Pentagon",
+      "url": "https://atcoder.jp/contests/adt_easy_20260310_1/tasks/abc333_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc334_b",
+      "label": "D",
+      "title": "Christmas Trees",
+      "url": "https://atcoder.jp/contests/adt_easy_20260310_1/tasks/abc334_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc238_c",
+      "label": "E",
+      "title": "digitnum",
+      "url": "https://atcoder.jp/contests/adt_easy_20260310_1/tasks/abc238_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
