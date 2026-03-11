@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20260311_2",
+    "title": "AtCoder Daily Training EASY 2026/03/11 18:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20260311_2"
+  },
+  "tasks": [
+    {
+      "id": "abc359_a",
+      "label": "A",
+      "title": "Count Takahashi",
+      "url": "https://atcoder.jp/contests/adt_easy_20260311_2/tasks/abc359_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc386_a",
+      "label": "B",
+      "title": "Full House 2",
+      "url": "https://atcoder.jp/contests/adt_easy_20260311_2/tasks/abc386_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc347_b",
+      "label": "C",
+      "title": "Substring",
+      "url": "https://atcoder.jp/contests/adt_easy_20260311_2/tasks/abc347_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc273_b",
+      "label": "D",
+      "title": "Broken Rounding",
+      "url": "https://atcoder.jp/contests/adt_easy_20260311_2/tasks/abc273_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc308_c",
+      "label": "E",
+      "title": "Standings",
+      "url": "https://atcoder.jp/contests/adt_easy_20260311_2/tasks/abc308_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
