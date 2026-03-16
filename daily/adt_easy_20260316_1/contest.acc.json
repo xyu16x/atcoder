@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20260316_1",
+    "title": "AtCoder Daily Training EASY 2026/03/16 16:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20260316_1"
+  },
+  "tasks": [
+    {
+      "id": "abc244_a",
+      "label": "A",
+      "title": "Last Letter",
+      "url": "https://atcoder.jp/contests/adt_easy_20260316_1/tasks/abc244_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc288_a",
+      "label": "B",
+      "title": "Many A+B Problems",
+      "url": "https://atcoder.jp/contests/adt_easy_20260316_1/tasks/abc288_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc414_b",
+      "label": "C",
+      "title": "String Too Long ",
+      "url": "https://atcoder.jp/contests/adt_easy_20260316_1/tasks/abc414_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc386_b",
+      "label": "D",
+      "title": "Calculator",
+      "url": "https://atcoder.jp/contests/adt_easy_20260316_1/tasks/abc386_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc302_c",
+      "label": "E",
+      "title": "Almost Equal",
+      "url": "https://atcoder.jp/contests/adt_easy_20260316_1/tasks/abc302_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
