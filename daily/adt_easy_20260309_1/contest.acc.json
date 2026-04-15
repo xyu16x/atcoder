@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20260309_1",
+    "title": "AtCoder Daily Training EASY 2026/03/09 16:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20260309_1"
+  },
+  "tasks": [
+    {
+      "id": "abc326_a",
+      "label": "A",
+      "title": "2UP3DOWN",
+      "url": "https://atcoder.jp/contests/adt_easy_20260309_1/tasks/abc326_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc252_a",
+      "label": "B",
+      "title": "ASCII code",
+      "url": "https://atcoder.jp/contests/adt_easy_20260309_1/tasks/abc252_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc339_b",
+      "label": "C",
+      "title": "Langton's Takahashi",
+      "url": "https://atcoder.jp/contests/adt_easy_20260309_1/tasks/abc339_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc378_b",
+      "label": "D",
+      "title": "Garbage Collection",
+      "url": "https://atcoder.jp/contests/adt_easy_20260309_1/tasks/abc378_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc400_c",
+      "label": "E",
+      "title": "2^a b^2",
+      "url": "https://atcoder.jp/contests/adt_easy_20260309_1/tasks/abc400_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 n = int(input())
+ans = 0
 
-while n > 0:
-    n = n // 10
+# 1-9 f(n) = n
+# 10 -99 f(n) = + 9

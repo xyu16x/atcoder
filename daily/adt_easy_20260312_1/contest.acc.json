@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20260312_1",
+    "title": "AtCoder Daily Training EASY 2026/03/12 16:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20260312_1"
+  },
+  "tasks": [
+    {
+      "id": "abc315_a",
+      "label": "A",
+      "title": "tcdr",
+      "url": "https://atcoder.jp/contests/adt_easy_20260312_1/tasks/abc315_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc376_a",
+      "label": "B",
+      "title": "Candy Button",
+      "url": "https://atcoder.jp/contests/adt_easy_20260312_1/tasks/abc376_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc382_b",
+      "label": "C",
+      "title": "Daily Cookie 2",
+      "url": "https://atcoder.jp/contests/adt_easy_20260312_1/tasks/abc382_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc269_b",
+      "label": "D",
+      "title": "Rectangle Detection",
+      "url": "https://atcoder.jp/contests/adt_easy_20260312_1/tasks/abc269_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc214_c",
+      "label": "E",
+      "title": "Distribution",
+      "url": "https://atcoder.jp/contests/adt_easy_20260312_1/tasks/abc214_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

@@ -11,3 +11,23 @@ ans = 0
 for i in range(64):
     ans += a[i] << i
 print(ans)
+
+## ASCIIコード
+ord('a') -> 97 
+chr(97) -> a
+
+## 重複無しリスト
+list = [1,2,3,4,5]
+s = set(list)
+print(s) # {1, 2, 3}
+
+## グラフ
+オイラー路:グラフ内のすべての辺を通る路
+ハミルトン路:グラフ内のすべての頂点を通る路
+
+## deque()
+from collections import deque
+var = deque()
+両端から高速に出し入れできるリスト
+popleft(), append() -> O(1)
+listはpopが遅い -> O(N)
