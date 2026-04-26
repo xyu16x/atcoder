@@ -31,3 +31,21 @@ var = deque()
 両端から高速に出し入れできるリスト
 popleft(), append() -> O(1)
 listはpopが遅い -> O(N)
+
+## BFS
+from collections import deque
+
+G = [[] for _ in range(N+1)]
+for a, b in edges:
+    G[a].append(b)
+
+visited = [False] * (N+1)
+q = deque([start])
+visited[start] = True
+
+while q:
+    v = q.popleft()
+    for nv in G[v]:
+        if not visited[nv]:
+            visited[nv] = True
+            q.append(nv)
