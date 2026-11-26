@@ -1,0 +1,81 @@
+🟦1. 二分探索（答えで二分探索）
+ホワイトボードで最も出やすい。
+「単調性」「境界」「探索範囲」を説明する練習になる。
+
+ABC146 C – Buy an Integer
+
+ABC279 C – RANDOMX
+
+ABC212 D – Querying Multiset（二分探索＋優先度付きキュー）
+
+説明ポイント：
+
+単調性の確認
+
+境界が1回だけ変わる
+
+mid の更新
+
+計算量 O(logN)
+
+🟩 2. グラフ最短経路（Dijkstra / BFS）
+estie は「距離」「最適化」「推定」が多いので必須。
+
+ABC168 D – .. (Shortest Path)（BFS）
+
+ABC191 E – Come Back Quickly（Dijkstra）
+
+説明ポイント：
+
+グラフの表現（隣接リスト）
+
+BFS と Dijkstra の違い
+
+優先度付きキューの使い方
+
+計算量 O(E log V)
+
+🟧 3. 貪欲法（Greedy）
+ホワイトボードで説明しやすく、理由付けが重要。
+
+ABC221 C – Select Mul
+
+ABC170 C – Forbidden List
+
+説明ポイント：
+
+なぜ貪欲で最適になるか
+
+反例がない理由
+
+ソートの意味
+
+🟨 4. 優先度付きキュー（ヒープ）
+estie の業務で「最適な候補を選ぶ」系が多いので重要。
+
+ABC141 D – Powerful Discount Tickets
+
+ABC212 D – Querying Multiset（再掲）
+
+説明ポイント：
+
+最大値/最小値を高速に取り出す
+
+push/pop の計算量
+
+なぜ配列ではなくヒープなのか
+
+🟪 5. シミュレーション（状態遷移）
+ホワイトボードで図を書いて説明しやすい。
+
+ABC184 C – Super Ryuma
+
+ABC176 C – Step
+
+説明ポイント：
+
+状態の定義
+
+遷移のルール
+
+コーナーケースの洗い出し

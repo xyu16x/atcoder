@@ -49,3 +49,6 @@ while q:
         if not visited[nv]:
             visited[nv] = True
             q.append(nv)
+
+## アルゴリズム選択
+単調増加、単調減少の最大値・最小値⇒二分探索
